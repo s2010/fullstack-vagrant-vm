@@ -1,4 +1,4 @@
-rdb-fullstack
+Vagrant VM
 =============
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+vagrant virtual machine.
