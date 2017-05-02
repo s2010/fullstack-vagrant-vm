@@ -1,4 +1,4 @@
 Vagrant VM
 =============
 
-vagrant virtual machine.
+vagrant virtual machine for fullstack developers 
